@@ -3,7 +3,7 @@
 The author is not responsible for any misuse of this software. Use it at your own risk and ensure compliance with all applicable laws and regulations.
 
 # Ethical Considerations
-Use Responsibly: This software is for educational and testing purposes only. Using a keylogger to monitor someone without their explicit consent is illegal in many jurisdictions and violates privacy rights.
+Use Responsibly: This software is for educational and testing purposes only. Using listpass to capture someone's passwords without their explicit consent is illegal in many jurisdictions and violates privacy rights.
 
 Transparency: Always inform and obtain consent from users before deploying this software on their systems.
 
